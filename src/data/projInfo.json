@@ -1,10 +1,10 @@
 {
 	"$schema": "./projInfo-schema.json",
 
-	"title": "Profectus",
+	"title": "Gods of Incremental",
 	"description": "A project made in Profectus",
-	"id": "",
-	"author": "",
+	"id": "gods",
+	"author": "Icecreamdude",
 	"discordName": "",
 	"discordLink": "",
 
